@@ -1,0 +1,27 @@
+p{  
+    padding-left: 8px;
+    padding-right: 8px;
+    font-family: Roboto, Arial;
+    font-size: 13px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+body{
+    font-family: Roboto,Arial;
+    padding-top: 80px;
+    padding-left:85px;
+    padding-right:5px;
+    background-color: rgb(241, 241, 241);
+}
+
+img{
+    cursor: pointer;
+}
+
+button{
+    cursor: pointer;
+}
+button:active{
+    opacity: 0.5;
+}
