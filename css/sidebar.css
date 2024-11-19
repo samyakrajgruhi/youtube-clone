@@ -45,8 +45,11 @@
     .side-bar-links{
         flex-direction: row;
         column-gap: 5px;
+        justify-content: start;
+        padding:0px 10px;
     }
     .side-bar-links div{
+        padding-top:1px;
         font-size:13px;
     }
 }
